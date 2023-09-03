@@ -1,10 +1,10 @@
 class Configs:
     
-    SESSION_NAME = "bot"
-    API_ID = 3359959
-    API_HASH = "fc809b5d42bdac477f9ac9b56383a699"
-    BOT_TOKEN = "6070757634:AAGS4tdJolbt1eyxJm7l9654VrwTbVIS6H0"
-    BOT_USERNAME = "BotFather"
-    ADMINS = {2056493966}
-    CHANNELS = {1946616237}
+    SESSION_NAME = "bot" # session name
+    API_ID = 123456 # api id
+    API_HASH = "ApiHash" # api hash
+    BOT_TOKEN = "BotToken" # bot token, get from @BotFather
+    BOT_USERNAME = "BotFather" # without @, example: BotFather or Jarrare
+    ADMINS = {2056493966, 12346789} # admins user_id | type: set
+    CHANNELS = {1946616237, 123456789} # channels id | type: set
     
