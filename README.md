@@ -21,4 +21,4 @@ pip install -r requirements.txt
 - Save config.py
 - Run main.py
 
-My id in telegram [SardarCyberym](https://t.me/Oxygn16) :speech_balloon:
+My id in telegram [SardarCyberym](https://t.me/Jarrare) :speech_balloon:
